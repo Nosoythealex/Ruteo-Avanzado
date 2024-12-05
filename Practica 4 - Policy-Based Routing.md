@@ -1,6 +1,6 @@
 *******
 ### Topologia
-
+![practica4](images/image3.png)
 *******
 ### SalesRouter
 
