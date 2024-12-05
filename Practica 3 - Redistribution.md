@@ -23,7 +23,7 @@ El enfoque principal es aplicar:
 *****
 ### Topología de la red
 
-![[Pasted image 20241001210008.png]]
+![practica3](images/image2.png)
 
 
 ******
