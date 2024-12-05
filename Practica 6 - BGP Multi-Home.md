@@ -1,6 +1,6 @@
 ### Topologia
 
-!
+![practica6](images/image5.png)
 
 ******
 ## AS 65000
