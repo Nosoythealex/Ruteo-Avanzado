@@ -1,6 +1,6 @@
 ## Topologia
 
-!
+![practica7](images/image6.png)
 
 
 *******
