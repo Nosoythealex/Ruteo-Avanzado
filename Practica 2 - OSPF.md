@@ -9,7 +9,7 @@ Los resultados mostraron una conectividad correcta entre cada una de las áreas 
 *****
 ### Topología:
 
-![[Pasted image 20240920165630.png]]
+![practica2](images/image.png)
 
 **Elementos a configurar:**
 
